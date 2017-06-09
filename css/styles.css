@@ -1,0 +1,144 @@
+*{
+background-color: #000;
+margin: 0;
+padding: 0;
+transition: all 0.3s ease;
+}
+body{
+width: 100%;
+max-width: 800px;
+height: 600px;
+margin: 0 auto;
+font-size: 0;
+}
+.polo{
+width: 100%;
+max-width: 800px;
+height: 600px;
+margin:0 auto;
+position: absolute;
+font-size: 0;
+background-image: url(../images/4-layers.png);
+}
+.blue{
+font-size: 0;
+width: 686px;
+height: 391px;
+margin: 106px 58px;
+box-shadow: 0 0 65px rgba(0, 0, 0, 0.82);
+border-radius: 10px;
+background-color: #111a28;
+position: absolute;
+padding: 0;
+}
+.logo,.site-header{
+	display: inline-block;
+	background-color: #111a28;
+	width: 65px;
+	height: 33px;
+	margin-top: 10px;
+	margin-left:8px;
+	border-radius: 10px;
+}
+.main-header{
+	font-size: 0;
+	background-color: #111a28;
+}
+.cross{
+	display: inline-block;
+	width: 60%;
+	background-color: #111a28;
+}
+.foto{
+	height: 159px;
+width: 329px;
+padding:10px;
+background-color: #111a28;
+}
+.size{
+	display: inline-block;
+	width: 40%;
+background-color: #111a28;
+}
+h1{	
+color: #e1e1e1;
+font-family: "Museo Sans Rounded",monospace;
+font-size: 24px;
+font-weight: 100;
+line-height: 26px;
+background-color: #111a28;
+}
+h2{
+	opacity: 0.54;
+color: #e1e1e1;
+font-family: "Museo Sans Rounded",monospace;
+font-size: 14px;
+font-weight: 100;
+line-height: 26px;
+padding-top: 10px;
+background-color: #111a28;
+}
+.stars{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #111a28;
+}
+.select1,.select2,select{
+	display: inline-block;
+	color: #fff;
+width: 69px;
+height: 32px;
+border: 1px solid #ffffff;
+background-color: #111a28;
+opacity: 0.26;
+text-align: center;
+}
+.button{
+width: 184px;
+height: 40px;
+border: 1px solid #ffffff;
+background-color: #4c525a;
+color: #e1e1e1;
+font-family: "Museo Sans Rounded",monospace;
+font-size: 14px;
+font-weight: 100;
+line-height: 18px;
+opacity: 0.4;
+}
+.add{
+	padding-top: 20px;
+	background-color: #111a28;
+}
+.foot1,.foot2,.foot3,.foot4{
+	display: inline-block;
+	list-style-type: none;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+}
+.site-footer{
+	padding-left: 150px;
+	background-color: #111a28;
+
+}
+.foot1{
+	background-color: #25324f;
+	margin-right: 10px;
+}
+.foot1:hover,.foot2:hover,.foot3:hover,.foot4:hover{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	border: 2px solid #77818c;
+}
+.foot2{
+	background-color:#fff; 
+	margin-right: 10px;
+}
+.foot3{
+	background-color: #f44a40;
+	margin-right: 10px;
+}
+.foot4{
+	background-color: #1ee8ef;
+}
