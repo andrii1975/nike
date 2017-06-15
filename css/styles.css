@@ -22,38 +22,38 @@ position: absolute;
 padding: 0;
 }
 .logo{
-	background-color: #111a28;
-	width: 65px;
+background-color: #111a28;
+width: 65px;
 }
 .site-header{
-	padding-top: 10px;
-	padding-left: 20px;
-	border-radius: 10px;
-	background-color: #111a28;
+padding-top: 10px;
+padding-left: 20px;
+border-radius: 10px;
+background-color: #111a28;
 }
 .site-main{
-	font-size: 0;
-	height: 286.56px;
-	background-color: #111a28;
+font-size: 0;
+height: 286.56px;
+background-color: #111a28;
 }
 .cross{
-	width: 60%;
-	background-color: #111a28;
-	float:left;
+width: 60%;
+background-color: #111a28;
+float:left;
 }
 .foto{
-	height: 159px;
+height: 159px;
 width: 329px;
 padding:10px;
 padding-top: 50px;
 background-color: #111a28;
 }
 .size{
-	width: 40%;
+width: 40%;
 background-color: #111a28;
 float:right;
 }
-h1{	
+h1{
 color: #e1e1e1;
 font-family: "Museo Sans Rounded",monospace;
 font-size: 24px;
@@ -62,7 +62,7 @@ line-height: 26px;
 background-color: #111a28;
 }
 h2{
-	opacity: 0.54;
+opacity: 0.54;
 color: #e1e1e1;
 font-family: "Museo Sans Rounded",monospace;
 font-size: 14px;
@@ -72,31 +72,31 @@ padding-top: 10px;
 background-color: #111a28;
 }
 .stars{
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin: 0;
-	background-color: #111a28;
-	font-size: 0;
+padding-top: 20px;
+padding-bottom: 20px;
+margin: 0;
+background-color: #111a28;
+font-size: 0;
 }
 .star{
-	list-style-type: none;
-	float: left;
-	background-color: #111a28; 
+list-style-type: none;
+float: left;
+background-color: #111a28;
 }
 .select1,.select2,select{
-	color: #fff;
+color: #fff;
 width: 69px;
 height: 32px;
 border: 1px solid #ffffff;
 background-color: #111a28;
 opacity: 0.26;
 text-align: center;
-	float:left;
+float:left;
 }
 .add{
-	padding-top: 20px;
-	background-color: #111a28;
-	clear:both;
+padding-top: 20px;
+background-color: #111a28;
+clear:both;
 }
 .button{
 width: 184px;
@@ -112,44 +112,41 @@ opacity: 0.4;
 margin-bottom: 20px;
 }
 .button:hover,.select1:hover,.select2:hover{
-	background-color: #f44a40;
-}
-.footer{
-	clear:both;
-	border-radius: 10px;
+background-color: #f44a40;
 }
 .foot1,.foot2,.foot3,.foot4{
-	list-style-type: none;
-	width: 9px;
-	height: 9px;
-	border-radius: 50%;
-	float:left;
+list-style-type: none;
+width: 9px;
+height: 9px;
+border-radius: 50%;
+float:left;
 }
 .site-footer{
-	padding-left: 150px;
-	padding-bottom: 20px;
-	background-color: #111a28;
-	border-radius: 10px;
-
+padding-left: 150px;
+padding-top: 30px;
+padding-bottom: 30px;
+background-color: #111a28;
+border-radius: 10px;
+clear:both;
 }
 .foot1{
-	background-color: #25324f;
-	margin-right: 10px;
+background-color: #25324f;
+margin-right: 10px;
 }
 .foot1:hover,.foot2:hover,.foot3:hover,.foot4:hover{
-	width: 12px;
-	height: 12px;
-	border-radius: 50%;
-	border: 2px solid #77818c;
+width: 12px;
+height: 12px;
+border-radius: 50%;
+border: 2px solid #77818c;
 }
 .foot2{
-	background-color:#fff; 
-	margin-right: 10px;
+background-color:#fff;
+margin-right: 10px;
 }
 .foot3{
-	background-color: #f44a40;
-	margin-right: 10px;
+background-color: #f44a40;
+margin-right: 10px;
 }
 .foot4{
-	background-color: #1ee8ef;
+background-color: #1ee8ef;
 }
