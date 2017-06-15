@@ -33,8 +33,8 @@ background-color: #111a28;
 }
 .site-main{
 font-size: 0;
-height: 286.56px;
 background-color: #111a28;
+border-radius: 10px;
 }
 .cross{
 width: 60%;
@@ -71,17 +71,22 @@ line-height: 26px;
 padding-top: 10px;
 background-color: #111a28;
 }
-.stars{
-padding-top: 20px;
-padding-bottom: 20px;
-margin: 0;
-background-color: #111a28;
-font-size: 0;
-}
 .star{
 list-style-type: none;
 float: left;
 background-color: #111a28;
+}
+.stars:before,
+.stars:after{
+content:"";
+display: table;
+clear:both;
+}
+.stars{
+background-color: #111a28;
+font-size: 0;
+padding-left:0;
+padding-bottom: 20px;
 }
 .select1,.select2,select{
 color: #fff;
@@ -121,13 +126,17 @@ height: 9px;
 border-radius: 50%;
 float:left;
 }
+.site-footer:before,
+.site-footer:after{
+content:"";
+display: table;
+clear:both;
+}
 .site-footer{
 padding-left: 150px;
-padding-top: 30px;
 padding-bottom: 30px;
 background-color: #111a28;
 border-radius: 10px;
-clear:both;
 }
 .foot1{
 background-color: #25324f;
